@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What&#39;s the best way to build an efficient research workflow? | Irene Tan</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/blogs/">Blogs</a></li>
+      
+      <li><a href="/resources/">Resources</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">What&rsquo;s the best way to build an efficient research workflow?</span></h1>
+<h2 class="author">Irene</h2>
+<h2 class="date">2024/06/20</h2>
+</div>
+
+<main>
+<p>As the title indicated, I personally haven&rsquo;t find <strong>THE</strong> best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect, at least for now.</p>
+<p>Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge dataset.</p>
+<p>To start, you should learn basic Git command and how Git works (Git != Github): things like what is pull, commit, push; how to create branches (but usually for small project where there is only one or two persons work on the code, no need to use multiple branches), how to initiate git to a folder etc. The best tutorial is the official <a href="https://git-scm.com/">Git documentation</a>. There is a period for getting used to it. After that, you will fall in love with <strong>COMMITTING</strong> and <strong>PUSHING</strong>!</p>
+<p>Another important thing is about the folder structure. Depending on the project, the structure would vary. But two core folders would be <code>code</code> and <code>data</code>. Few things to keep in mind:</p>
+<ol>
+<li>In every code, refer any data files by their relative path instead of absolute path. This is important to ensure the code replicability (others don&rsquo;t need to change the path every time).</li>
+<li>Everytime you work on the project, you should go to the project folder (related to 1)</li>
+<li>It should usually be the case that one folder in<code>code</code> correpsonds to one folder in <code>data</code>.</li>
+<li>Create documentation as you write down the code (Trust me, humans are REALLY forgetful).</li>
+<li>Also create readme file for <code>data</code> folders so that it can be detected by Git.</li>
+</ol>
+<p>There is no much to say about the Dropbox and clustering. Keep in mind to set up the SSH and configure properly to access the remote (Github) safely.</p>
+<p>Another thing I want to share is the use of command lines. It&rsquo;s really fast compared with interactive interface like VS-Code when performing tasks like renaming files, moving files, deleting files, unzipping files as well as transferring data from cloud to local or between cluster (e.g., WRDS Clouds to Mercury).  Learn essential command line will help a lot.</p>
+<p>Well, no more to share. Will update if I learn anything new!!</p>
+
+</main>
+
+  <footer>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script src="//cdn.jsdelivr.net/combine/npm/katex/dist/katex.min.js,npm/katex/dist/contrib/auto-render.min.js,npm/@xiee/utils/js/render-katex.js" defer></script>
+
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
+
+  
+  <hr/>
+  © <a href="">Irene Tan</a> 2023 &ndash; 2024 | <a href="https://github.com/ittshuang">Github</a> | <a href="www.linkedin.com/in/ittshuang">LinkedIn</a>
+  
+  </footer>
+  </body>
+</html>
+

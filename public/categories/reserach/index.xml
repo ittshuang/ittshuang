@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reserach on Irene Tan</title>
+    <link>//localhost:4321/categories/reserach/</link>
+    <description>Recent content in Reserach on Irene Tan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/reserach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s the best way to build an efficient research workflow?</title>
+      <link>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</guid>
+      <description>As the title indicated, I personally haven&amp;rsquo;t find THE best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect, at least for now.&#xA;Github serves as a code hub where you can do version control and collaborate with co-authors. Dropbox or a computer cluster serves as cloud to store all the huge data.</description>
+    </item>
+  </channel>
+</rss>
