@@ -6,3 +6,4 @@ title: Home
 
 ## _Empty Yourself_
 
+![Myopia Orange](/./_index_files/orange.jpg)
