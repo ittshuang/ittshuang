@@ -2,8 +2,9 @@
 title: Home
 ---
 
-# IRENE TAN
+# IRENE TAN <img src="/./_index_files/orange.jpg" alt="Myopia Orange" width="20%" style="float: right; margin-left: 20px;"/>
+
+
 
 ## _Empty Yourself_
 
-![Myopia Orange](/./_index_files/orange.jpg)
