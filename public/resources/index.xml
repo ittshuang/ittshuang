@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Irene Tan</title>
+    <link>//localhost:4321/resources/</link>
+    <description>Recent content in Resources on Irene Tan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Website</title>
+      <link>//localhost:4321/resources/2024/06/21/useful-website/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/resources/2024/06/21/useful-website/</guid>
+      <description>I usually ran into some really intersting, useful and cool websites that want to share with you, who are willing to spend time reading my website:) I hope this is an archival that I can update frequently.&#xA;Economics Visit Opportunity Insights to see research about equality, migration, mobility and opportunity etc. Research Using Research Rabbit to searching for relevant literatures. The network and visualization are really nice. Data Visit China Data Institue (subscription required) for Chinese geographical and other data.</description>
+    </item>
+  </channel>
+</rss>
