@@ -2,26 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/tags/boring/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/categories/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/read/2024/06/25/notes-on-arya-et-al-2000/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/read/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/research/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/resources/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
@@ -32,10 +17,16 @@
     <loc>//localhost:4321/tags/slightly-interesting/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/tags/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/resources/2024/06/21/useful-website/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/blogs/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/boring/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/reserach/</loc>

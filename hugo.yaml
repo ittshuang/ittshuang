@@ -10,7 +10,6 @@ footnotereturnlinkcontents: "↩"
 permalinks:
   blogs: "/blogs/:year/:month/:day/:slug/"
   resources: "/resources/:year/:month/:day/:slug/"
-  read: "/read/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -23,17 +22,14 @@ menu:
     - name: Blogs
       url: "blogs/"
       weight: 3
-    - name: Read
-      url: "read/"
-      weight: 4
     - name: Resources
       url: "resources/"
-      weight: 5
+      weight: 4
 
 params:
   description: "Irene's Room"
   footer: "&copy; [Irene Tan](https://ittshuang.netlify.app/) 2023 -- {Year} | [Github](https://github.com/ittshuang) | [LinkedIn](www.linkedin.com/in/ittshuang)"
-  favicon: "favicon.ico"
+
   
 markup:
   highlight:

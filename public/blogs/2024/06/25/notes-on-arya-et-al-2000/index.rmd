@@ -25,3 +25,4 @@ Four steps to form the solution:
 4. Given the reader’s priors over $y$, derive the conditional mean of the consistent $y$ vectors
 
 
+

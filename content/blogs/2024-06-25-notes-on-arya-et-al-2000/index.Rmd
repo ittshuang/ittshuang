@@ -3,10 +3,12 @@ title: Notes on Arya et al., 2000
 author: Irene
 date: '2024-06-25'
 slug: notes-on-arya-et-al-2000
-categories: []
+categories:
+  - Read
 tags:
   - Boring
   - Accounting
+  - Paper
 ---
 
 
