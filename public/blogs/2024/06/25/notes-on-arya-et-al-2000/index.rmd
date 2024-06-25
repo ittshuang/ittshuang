@@ -1,0 +1,27 @@
+---
+title: Notes on Arya et al., 2000
+author: Irene
+date: '2024-06-25'
+slug: notes-on-arya-et-al-2000
+categories:
+  - Research
+tags:
+  - Boring
+---
+**The paper**:  Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.
+
+
+## The Question
+
+Given a set of financial statement $x$, what is the "best guess" of the underlying transaction vector $y$?
+
+## The Solution
+
+Four steps to form the solution:
+
+1. Build a algebric representation for accounting process: $Ay=x$ ($A$ is the double entry matrix)
+2. Identify the fundamental subspaces of $A$.
+3. Given $x$, solve all possible $y$ that satisfy $Ay=x$.
+4. Given the reader’s priors over $y$, derive the conditional mean of the consistent $y$ vectors
+
+

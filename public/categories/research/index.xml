@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Boring on Irene Tan</title>
-    <link>//localhost:4321/tags/boring/</link>
-    <description>Recent content in Boring on Irene Tan</description>
+    <title>Research on Irene Tan</title>
+    <link>//localhost:4321/categories/research/</link>
+    <description>Recent content in Research on Irene Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/boring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on Arya et al., 2000</title>
       <link>//localhost:4321/read/2024/06/25/notes-on-arya-et-al-2000/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/read/2024/06/25/notes-on-arya-et-al-2000/</guid>
       <description>The paper: Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.&#xA;The Question&#xD;Given a set of financial statement \(x\), what is the “best guess” of the underlying transaction vector \(y\)?&#xA;The Solution&#xD;Four steps to form the solution:&#xA;Build a algebric representation for accounting process: \(Ay=x\) (\(A\) is the double entry matrix)&#xD;Identify the fundamental subspaces of \(A\).</description>
-    </item>
-    <item>
-      <title>What&#39;s the best way to build an efficient research workflow?</title>
-      <link>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</guid>
-      <description>As the title indicated, I personally haven&amp;rsquo;t find THE best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect, at least for now.&#xA;Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge dataset.</description>
     </item>
   </channel>
 </rss>
