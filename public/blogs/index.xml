@@ -6,15 +6,8 @@
     <description>Recent content in Blogs on Irene Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reading Summary</title>
-      <link>//localhost:4321/blogs/2024/08/05/reading-summary/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blogs/2024/08/05/reading-summary/</guid>
-      <description>To write down things while reading.&#xA;Li, Feng, Russell Lundholm, and Michael Minnis. “A Measure of Competition Based on 10-K Filings.” Journal of Accounting Research 51, no. 2 (2013): 399–436.&#xA;Measure of competition based on textual analysis in 10K.&#xD;Competition is the cross-elasticity of demand.&#xD;Common competition measures like four-company ratio and HHI lack precision in measuring individual firms’ operating and investing decision; they are also only based on very limited public firm samples; they also depend largely on the definition of industry.</description>
-    </item>
     <item>
       <title>Notes on Arya et al., 2000</title>
       <link>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</link>
@@ -27,7 +20,7 @@
       <link>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</guid>
-      <description>As the title indicated, I personally haven&amp;rsquo;t find THE best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect, at least for now.&#xA;Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge dataset.</description>
+      <description>As the question mark in title indicated, I personally haven&amp;rsquo;t find THE best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect.&#xA;Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge datasets.</description>
     </item>
     <item>
       <title>TTS的第一则博客</title>

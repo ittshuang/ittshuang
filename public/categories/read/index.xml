@@ -6,8 +6,15 @@
     <description>Recent content in Read on Irene Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/categories/read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Summary</title>
+      <link>//localhost:4321/blogs/2024/08/05/reading-summary/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blogs/2024/08/05/reading-summary/</guid>
+      <description>To write down things while reading.&#xA;Li, Feng, Russell Lundholm, and Michael Minnis. “A Measure of Competition Based on 10-K Filings.” Journal of Accounting Research 51, no. 2 (2013): 399–436.&#xA;Measure of competition based on textual analysis in 10K.&#xD;Competition is the cross-elasticity of demand.&#xD;Common competition measures like four-company ratio and HHI lack precision in measuring individual firms’ operating and investing decision; they are also only based on very limited public firm samples; they also depend largely on the definition of industry.</description>
+    </item>
     <item>
       <title>Notes on Arya et al., 2000</title>
       <link>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</link>
