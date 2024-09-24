@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "Irene's Room"
-  footer: "&copy; [Irene Tan](https://ittshuang.netlify.app/) 2023 -- {Year} | [Github](https://github.com/ittshuang) | [LinkedIn](https://linkedin.com/in/ittshuang)"
+  footer: "&copy; [Irene T. Tan](https://ittshuang.netlify.app/) 2023 -- {Year} | [Github](https://github.com/ittshuang) | [LinkedIn](https://linkedin.com/in/ittshuang)"
 
   
 markup:
@@ -52,7 +52,7 @@ markup:
 
 output:
   blogdown::html_page:
-    toc: true
+    toc: false
   
 
   

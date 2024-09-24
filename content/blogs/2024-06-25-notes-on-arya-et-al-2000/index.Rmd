@@ -1,5 +1,5 @@
 ---
-title: Notes on Arya et al., 2000
+title: Notes on Arya et al., 2000 TBC
 author: Irene
 date: '2024-06-25'
 slug: notes-on-arya-et-al-2000
