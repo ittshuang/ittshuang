@@ -34,6 +34,7 @@ I usually ran into some really interesting, useful and cool websites that want t
 * [Data Analysis Examples](https://stats.oarc.ucla.edu/other/dae/) in UCLA Statistical Methods and Data Analytics
 * [Library of Statistical Techniques](https://lost-stats.github.io) by Nick Huntington-Klein
 * [DiD Software packages](https://asjadnaqvi.github.io/DiD/) by Asjad Naqvi
+* [Network Analysis of Roles in Game of Throne](https://ericmjl.github.io/Network-Analysis-Made-Simple/05-casestudies/01-gameofthrones/)
 
 ## Giants' Shoulder
 
