@@ -14,6 +14,9 @@ tags:
 
 **The paper**:  Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.
 
+## Introductory
+
+Linear representations serve as useful tools for many fundamental accounting questions
 
 ## The Question
 

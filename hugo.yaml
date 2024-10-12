@@ -10,6 +10,7 @@ footnotereturnlinkcontents: "↩"
 permalinks:
   blogs: "/blogs/:year/:month/:day/:slug/"
   resources: "/resources/:year/:month/:day/:slug/"
+  readings: "/readings/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -25,6 +26,9 @@ menu:
     - name: Resources
       url: "resources/"
       weight: 4
+    - name: Readings
+      url: "readings/"
+      weight: 5
 
 params:
   description: "Irene's Room"
