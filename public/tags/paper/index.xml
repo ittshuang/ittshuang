@@ -4,7 +4,7 @@
     <title>Paper on Irene Tan</title>
     <link>//localhost:4321/tags/paper/</link>
     <description>Recent content in Paper on Irene Tan</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/tags/paper/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The paper&lt;/strong&gt;: Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.&lt;/p&gt;&#xA;&lt;div id=&#34;the-question&#34; class=&#34;section level2&#34;&gt;&#xA;&lt;h2&gt;The Question&lt;/h2&gt;&#xA;&lt;p&gt;Given a set of financial statement &lt;span class=&#34;math inline&#34;&gt;\(x\)&lt;/span&gt;, what is the “best guess” of the underlying transaction vector &lt;span class=&#34;math inline&#34;&gt;\(y\)&lt;/span&gt;?&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;the-solution&#34; class=&#34;section level2&#34;&gt;&#xA;&lt;h2&gt;The Solution&lt;/h2&gt;&#xA;&lt;p&gt;Four steps to form the solution:&lt;/p&gt;&#xA;&lt;ol style=&#34;list-style-type: decimal&#34;&gt;&#xA;&lt;li&gt;Build a algebric representation for accounting process: &lt;span class=&#34;math inline&#34;&gt;\(Ay=x\)&lt;/span&gt; (&lt;span class=&#34;math inline&#34;&gt;\(A\)&lt;/span&gt; is the double entry matrix)&lt;/li&gt;&#xA;&lt;li&gt;Identify the fundamental subspaces of &lt;span class=&#34;math inline&#34;&gt;\(A\)&lt;/span&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Given &lt;span class=&#34;math inline&#34;&gt;\(x\)&lt;/span&gt;, solve all possible &lt;span class=&#34;math inline&#34;&gt;\(y\)&lt;/span&gt; that satisfy &lt;span class=&#34;math inline&#34;&gt;\(Ay=x\)&lt;/span&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Given the reader’s priors over &lt;span class=&#34;math inline&#34;&gt;\(y\)&lt;/span&gt;, derive the conditional mean of the consistent &lt;span class=&#34;math inline&#34;&gt;\(y\)&lt;/span&gt; vectors.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+      <description>The paper: Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.&#xA;The Question Given a set of financial statement \(x\), what is the “best guess” of the underlying transaction vector \(y\)?&#xA;The Solution Four steps to form the solution:&#xA;Build a algebric representation for accounting process: \(Ay=x\) (\(A\) is the double entry matrix) Identify the fundamental subspaces of \(A\).</description>
     </item>
   </channel>
 </rss>
