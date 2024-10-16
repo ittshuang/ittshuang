@@ -1,5 +1,5 @@
 ---
-title: Notes on Arya et al., 2000 TBC
+title: Notes on Arya et al., 2000s TBC
 author: Irene
 date: '2024-06-25'
 slug: notes-on-arya-et-al-2000
@@ -12,11 +12,17 @@ tags:
 ---
 
 
-**The paper**:  Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.
+**The paper**:  
+- Arya, Anil, John C. Fellingham, Jonathan C. Glover, Douglas A. Schroeder, and Gilbert Strang. 2000. “Inferring Transactions from Financial Statements*.” Contemporary Accounting Research 17 (3): 366–85.
+- Arya, Anil, John C. Fellingham, and Douglas A. Schroeder. 2000. “Estimating Transactions Given Balance Sheets and an Income Statement.” Issues in Accounting Education 15 (3): 393–411.
+ 
 
 ## Introductory
 
-Linear representations serve as useful tools for many fundamental accounting questions
+Linear representations serve as useful tools for many fundamental accounting questions such as the formulation of cost function and the formulation of constrained profit maximization problems. Double entry bookkeeping is a linear system that transform transactions (or economic activities) to aggregated financial statements.
+
+Accountants' job is mostly forward, that is turn the transaction to financial statements based on double entry bookkeeping. However, working backward to disaggregate financial statements to transaction data would bring another angle to the profession. The authors highlighted the importance of this process to accounting education. Another angle they talks about is the non-uniqueness of the reverse engineer solution highlights the information loss in aggregation. The extent of aggregation is decided by the designer of the accounting system. 
+
 
 ## The Question
 
@@ -30,4 +36,26 @@ Four steps to form the solution:
 2. Identify the fundamental subspaces of $A$.
 3. Given $x$, solve all possible $y$ that satisfy $Ay=x$.
 4. Given the reader’s priors over $y$, derive the conditional mean of the consistent $y$ vectors.
+
+## An styled example - the invertability process
+
+The 7 accounting events are:
+1. Purchase raw material
+2. Plant and building acquired by cash
+3. Cash expense
+4. Cash sales
+5. Cost of goods sold
+6. Product cost depreciation
+7. Period cost depreciation
+
+Each transaction can be recorded in an incident matrix
+
+
+
+
+
+
+
+
+
 
