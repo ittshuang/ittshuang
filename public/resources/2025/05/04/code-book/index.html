@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4417&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Code Book | Irene Tan</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/blogs/">Blogs</a></li>
+      
+      <li><a href="/resources/">Resources</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Code Book</span></h1>
+<h2 class="author">Irene Tan</h2>
+<h2 class="date">2025/05/04</h2>
+</div>
+
+<main>
+<p>Often times Irene doesn&rsquo;t remember things so well. So, it&rsquo;s good to put some common codes (particularly command lines in Linux) here that she can refer to.</p>
+<p>Log in to cluster (WRDS as an example)</p>
+<pre><code>ssh irenetan@wrds-cloud.wharton.upenn.edu
+</code></pre>
+<p><code>&gt;</code> operator directs a command&rsquo;s output to a file and overwrite the file. <code>&gt;&gt;</code> append the output to a existing file:</p>
+<pre><code>echo &quot;Ok, this is crazy:)&quot; &gt; a_meme.txt
+echo &quot;Ok, this is crazy:)&quot; &gt; memes.txt
+</code></pre>
+<p>Get info about working directory</p>
+<pre><code>cd
+pwd
+ls -a # list all files
+ls -l # list with detailed info
+ls -t # sort files
+ls xxx | wc -l # count the number of files in xxx directory
+</code></pre>
+<p>Move (rename), copy, remove</p>
+<pre><code>mv source destination 
+cp source destination 
+scp file_to_copy.csv irenetan@wrds-cloud.wharton.upenn.edu:/home/folder/
+rm xxx # remove a file
+rm -r xxx # remove the whole folder
+</code></pre>
+<p>Zip and rm</p>
+<pre><code>zip -rm path_of_out_zip.zip folder_to_zip
+</code></pre>
+<p>There are also more for slurm or debian cluster info checking but I totally can&rsquo;t think of any right now.</p>
+
+</main>
+
+  <footer>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script src="//cdn.jsdelivr.net/combine/npm/katex/dist/katex.min.js,npm/katex/dist/contrib/auto-render.min.js,npm/@xiee/utils/js/render-katex.js" defer></script>
+
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
+
+  
+  <hr/>
+  © <a href="https://ittshuang.netlify.app/">Irene T. Tan</a> 2023 &ndash; 2025 | <a href="https://github.com/ittshuang">Github</a> | <a href="https://linkedin.com/in/ittshuang">LinkedIn</a>
+  
+  </footer>
+  </body>
+</html>
+

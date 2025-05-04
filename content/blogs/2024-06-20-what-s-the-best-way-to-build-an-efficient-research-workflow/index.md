@@ -19,7 +19,7 @@ Another important thing is about the folder structure. Depending on the project,
 
 1. In every code, refer any data files by their relative path instead of absolute path. This is important to ensure the code replicability (others just need to go to the work directory and then don't need to change the path every time).
 2. Everytime you work on the project, you should go to the project folder (related to 1)
-3. It should usually be the case that one folder in`code` correpsonds to one folder in `data`.
+3. It should usually be the case that one folder in `code` correpsonds to one folder in `data`.
 4. Create documentation as you write down the code. 
 5. Also create readme file in the `data` folders so that it can be detected by Git.
 
