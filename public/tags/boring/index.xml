@@ -4,23 +4,16 @@
     <title>Boring on Irene Tan</title>
     <link>//localhost:4321/tags/boring/</link>
     <description>Recent content in Boring on Irene Tan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/tags/boring/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notes on Arya et al., 2000 TBC</title>
-      <link>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blogs/2024/06/25/notes-on-arya-et-al-2000/</guid>
-      <description>The paper: Arya, A., J. Fellingham, Jonathan Glover , D. Schroeder, and Gilbert Strang. “Inferring Transactions from Financial Statements.” Contemporary Accounting Research vol. 17, (January 01, 2000): 366-385.&#xA;Introductory&#xD;Linear representations serve as useful tools for many fundamental accounting questions&#xA;The Question&#xD;Given a set of financial statement \(x\), what is the “best guess” of the underlying transaction vector \(y\)?&#xA;The Solution&#xD;Four steps to form the solution:&#xA;Build a algebric representation for accounting process: \(Ay=x\) (\(A\) is the double entry matrix)&#xD;Identify the fundamental subspaces of \(A\).</description>
-    </item>
     <item>
       <title>What&#39;s the best way to build an efficient research workflow?</title>
       <link>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blogs/2024/06/20/what-s-the-best-way-to-build-an-efficient-research-workflow/</guid>
-      <description>As the question mark in title indicated, I personally haven&amp;rsquo;t find THE best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect.&#xA;Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge datasets.</description>
+      <description>&lt;p&gt;As the question mark in title indicated, I personally haven&amp;rsquo;t find &lt;strong&gt;THE&lt;/strong&gt; best way to do so. There is still a long way to go. But influenced by many people, I thing Github + Dropbox/Cluster works perfect.&lt;/p&gt;&#xA;&lt;p&gt;Github serves as a code hub where you can do version control and collaborate with co-authors. You can easily track all the changes on code. Dropbox or a computer cluster serves as cloud to store all the huge datasets.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
